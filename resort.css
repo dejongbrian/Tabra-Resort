@@ -1,0 +1,23 @@
+body{
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-image: url("https://img1.coastalliving.timeinc.net/sites/default/files/styles/4_3_horizontal_inbody_900x506/public/image/2019/05/main/resort-pool-sunrise.jpg?itok=95HN5Jeg&1559257908");
+}
+
+a{
+  color:white;
+  font-size:2em;
+  padding:10px;
+  padding-top:30px;
+  text-decoration: none;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav{
+  text-align: right;
+
+}
+h1{
+  color:white;
+  font-size:5em;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
